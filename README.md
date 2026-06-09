@@ -1,2 +1,2 @@
 # bihProjects
-Demonstration for internship at Berlin Institute of Health 2026
+ Demonstration projects for internship at Berlin Institute of Health 2026 
